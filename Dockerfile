@@ -1,5 +1,5 @@
 FROM            nginx:alpine
-MAINTAINER      Eugene Cheah <eugene@picoded.com>
+MAINTAINER      Ever and Ever <docker@everandever.co>
 
 #
 # Redirection HTTP code. 
